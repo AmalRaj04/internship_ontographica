@@ -28,3 +28,6 @@ OUPUT:
         missing value analysis
         statistical analysis
         distribution of data
+
+REPOSITORY LINK:
+https://github.com/AmalRaj04/internship_ontographica/tree/main/AI001
