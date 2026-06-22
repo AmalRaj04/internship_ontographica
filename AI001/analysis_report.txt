@@ -1,0 +1,72 @@
+REPORT ON INETERNSHIP RECORD ANALYSIS
+
+ENTITIES AND PROPERTIES
+
+rows(entities):161
+columns(properties):7
+
+DATA COMPLETENESS
+
+total cells:1127
+missing cells:17
+data completeness score:98.49157054125999%
+
+ENTITY IDENTIFIER ANALYSIS
+
+total intern records:161
+unique intern ids:159
+duplicate intern ids:2
+
+PROPERTIES
+
+0 intern_id
+1 name
+2 guild
+3 xp_earned
+4 completed_tasks
+5 join_date
+6 performance_rating
+
+
+MISSING VALUE ANALYSIS
+
+intern_id              0
+name                   0
+guild                  0
+xp_earned             10
+completed_tasks        0
+join_date              0
+performance_rating     7
+dtype: int64
+
+STATISTICAL ANALYSIS
+
+        xp_earned  completed_tasks
+count  151.000000       161.000000
+mean   114.615894         3.031056
+std     42.829252         2.406819
+min     40.000000         0.000000
+25%     79.500000         0.000000
+50%    114.000000         3.000000
+75%    150.000000         6.000000
+max    189.000000         6.000000
+
+GUILD DISTRIBUTION
+
+guild
+Archivist     34
+Visualizer    32
+Engineer      32
+Ontologist    32
+Analyst       31
+Name: count, dtype: int64
+
+PERFORMANCE DISTRIBUTION
+
+performance_rating
+Excellent            32
+Good                 31
+Needs Improvement    31
+Outstanding          30
+Satisfactory         30
+Name: count, dtype: int64
