@@ -1,0 +1,1434 @@
+@prefix ns1: <http://example.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/intern/INT-001> a ns1:Intern ;
+    ns1:completedTasks "4" ;
+    ns1:earnedXP 1.2e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-001" ;
+    ns1:hasName "Aidan Vance" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-01-15" .
+
+<http://example.org/intern/INT-002> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 8.5e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-002" ;
+    ns1:hasName "Briseis Cole" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-02-01" .
+
+<http://example.org/intern/INT-003> a ns1:Intern ;
+    ns1:completedTasks "5" ;
+    ns1:earnedXP 1.5e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-003" ;
+    ns1:hasName "Caelum Thorne" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-10" .
+
+<http://example.org/intern/INT-004> a ns1:Intern ;
+    ns1:completedTasks "2" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-004" ;
+    ns1:hasName "Dahlia Vance" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-03-01" .
+
+<http://example.org/intern/INT-005> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 9.5e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-005" ;
+    ns1:hasName "Elora Danan" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-02-15" .
+
+<http://example.org/intern/INT-006> a ns1:Intern ;
+    ns1:completedTasks "4" ;
+    ns1:earnedXP 1.1e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-006" ;
+    ns1:hasName "Faelan Brooks" ;
+    ns1:hasPerformanceRating "NaN"^^xsd:double ;
+    ns1:joinedOn "2025-01-20" .
+
+<http://example.org/intern/INT-007> a ns1:Intern ;
+    ns1:completedTasks "4" ;
+    ns1:earnedXP 1.3e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-007" ;
+    ns1:hasName "Gideon Black" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-01-12" .
+
+<http://example.org/intern/INT-008> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 9.6e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-008" ;
+    ns1:hasName "Aidan Murdoch" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-09" .
+
+<http://example.org/intern/INT-009> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.03e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-009" ;
+    ns1:hasName "Briseis Murdoch" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-10" .
+
+<http://example.org/intern/INT-010> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.1e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-010" ;
+    ns1:hasName "Caelum Murdoch" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-11" .
+
+<http://example.org/intern/INT-011> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.17e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-011" ;
+    ns1:hasName "Dahlia Danan" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-12" .
+
+<http://example.org/intern/INT-012> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.24e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-012" ;
+    ns1:hasName "Elora Brooks" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-13" .
+
+<http://example.org/intern/INT-013> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.31e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-013" ;
+    ns1:hasName "Faelan Black" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-14" .
+
+<http://example.org/intern/INT-014> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.38e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-014" ;
+    ns1:hasName "Gideon Lin" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-15" .
+
+<http://example.org/intern/INT-015> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.45e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-015" ;
+    ns1:hasName "Hana Reed" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-16" .
+
+<http://example.org/intern/INT-016> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.52e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-016" ;
+    ns1:hasName "Ione Fahey" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-17" .
+
+<http://example.org/intern/INT-017> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-017" ;
+    ns1:hasName "Jesper Voss" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-18" .
+
+<http://example.org/intern/INT-018> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.66e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-018" ;
+    ns1:hasName "Kaelen Belacqua" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-19" .
+
+<http://example.org/intern/INT-019> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.73e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-019" ;
+    ns1:hasName "Lyra Archeron" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-20" .
+
+<http://example.org/intern/INT-020> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.8e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-020" ;
+    ns1:hasName "Marek Allday" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-21" .
+
+<http://example.org/intern/INT-021> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.87e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-021" ;
+    ns1:hasName "Nesta Valerius" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-22" .
+
+<http://example.org/intern/INT-022> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 4.4e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-022" ;
+    ns1:hasName "Odin Sinclair" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-23" .
+
+<http://example.org/intern/INT-023> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 5.1e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-023" ;
+    ns1:hasName "Rowan Holloway" ;
+    ns1:hasPerformanceRating "NaN"^^xsd:double ;
+    ns1:joinedOn "2025-04-24" .
+
+<http://example.org/intern/INT-024> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 5.8e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-024" ;
+    ns1:hasName "Silas Mercer" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-25" .
+
+<http://example.org/intern/INT-025> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 6.5e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-025" ;
+    ns1:hasName "Freya Sterling" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-26" .
+
+<http://example.org/intern/INT-026> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 7.2e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-026" ;
+    ns1:hasName "Elena Garrick" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-27" .
+
+<http://example.org/intern/INT-027> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 7.9e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-027" ;
+    ns1:hasName "Julian Winters" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-28" .
+
+<http://example.org/intern/INT-028> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 8.6e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-028" ;
+    ns1:hasName "Amara Hawthorne" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-01" .
+
+<http://example.org/intern/INT-029> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 9.3e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-029" ;
+    ns1:hasName "Zane Kemp" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-02" .
+
+<http://example.org/intern/INT-030> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-030" ;
+    ns1:hasName "Mira Chen" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-03" .
+
+<http://example.org/intern/INT-031> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.07e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-031" ;
+    ns1:hasName "Calvin Moretti" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-04" .
+
+<http://example.org/intern/INT-032> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.14e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-032" ;
+    ns1:hasName "Iris Vega" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-05" .
+
+<http://example.org/intern/INT-033> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.21e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-033" ;
+    ns1:hasName "Tristan Russo" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-06" .
+
+<http://example.org/intern/INT-034> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-034" ;
+    ns1:hasName "Nova Bancroft" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-07" .
+
+<http://example.org/intern/INT-035> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.35e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-035" ;
+    ns1:hasName "Valerie Pendleton" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-08" .
+
+<http://example.org/intern/INT-036> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.42e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-036" ;
+    ns1:hasName "Dorian Kingsley" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-09" .
+
+<http://example.org/intern/INT-037> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.49e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-037" ;
+    ns1:hasName "Selene Murdoch" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-10" .
+
+<http://example.org/intern/INT-038> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.56e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-038" ;
+    ns1:hasName "Thalia Dalton" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-11" .
+
+<http://example.org/intern/INT-039> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.63e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-039" ;
+    ns1:hasName "Lucas Gallagher" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-12" .
+
+<http://example.org/intern/INT-040> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.7e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-040" ;
+    ns1:hasName "Clara Kendrick" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-13" .
+
+<http://example.org/intern/INT-041> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.77e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-041" ;
+    ns1:hasName "Xavier Marlowe" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-14" .
+
+<http://example.org/intern/INT-042> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.84e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-042" ;
+    ns1:hasName "Naomi Prescott" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-15" .
+
+<http://example.org/intern/INT-043> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 4.1e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-043" ;
+    ns1:hasName "Marcus Rhodes" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-16" .
+
+<http://example.org/intern/INT-044> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 4.8e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-044" ;
+    ns1:hasName "Fiona Stratton" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-17" .
+
+<http://example.org/intern/INT-045> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 5.5e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-045" ;
+    ns1:hasName "Gavin Vaughan" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-18" .
+
+<http://example.org/intern/INT-046> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 6.2e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-046" ;
+    ns1:hasName "Phoebe Waverly" ;
+    ns1:hasPerformanceRating "NaN"^^xsd:double ;
+    ns1:joinedOn "2025-02-19" .
+
+<http://example.org/intern/INT-047> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 6.9e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-047" ;
+    ns1:hasName "Ethan York" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-20" .
+
+<http://example.org/intern/INT-048> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 7.6e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-048" ;
+    ns1:hasName "Aidan Cole" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-21" .
+
+<http://example.org/intern/INT-049> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 8.3e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-049" ;
+    ns1:hasName "Briseis Thorne" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-22" .
+
+<http://example.org/intern/INT-050> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 9e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-050" ;
+    ns1:hasName "Caelum Danan" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-23" .
+
+<http://example.org/intern/INT-051> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-051" ;
+    ns1:hasName "Dahlia Brooks" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-24" .
+
+<http://example.org/intern/INT-052> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.04e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-052" ;
+    ns1:hasName "Elora Black" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-25" .
+
+<http://example.org/intern/INT-053> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.11e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-053" ;
+    ns1:hasName "Faelan Lin" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-26" .
+
+<http://example.org/intern/INT-054> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.18e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-054" ;
+    ns1:hasName "Gideon Reed" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-27" .
+
+<http://example.org/intern/INT-055> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.25e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-055" ;
+    ns1:hasName "Hana Fahey" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-28" .
+
+<http://example.org/intern/INT-056> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.32e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-056" ;
+    ns1:hasName "Ione Voss" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-01" .
+
+<http://example.org/intern/INT-057> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.39e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-057" ;
+    ns1:hasName "Jesper Belacqua" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-02" .
+
+<http://example.org/intern/INT-058> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.46e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-058" ;
+    ns1:hasName "Kaelen Archeron" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-03" .
+
+<http://example.org/intern/INT-059> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.53e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-059" ;
+    ns1:hasName "Lyra Allday" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-04" .
+
+<http://example.org/intern/INT-060> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.6e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-060" ;
+    ns1:hasName "Marek Valerius" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-05" .
+
+<http://example.org/intern/INT-061> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.67e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-061" ;
+    ns1:hasName "Nesta Sinclair" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-06" .
+
+<http://example.org/intern/INT-062> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.74e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-062" ;
+    ns1:hasName "Odin Holloway" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-07" .
+
+<http://example.org/intern/INT-063> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.81e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-063" ;
+    ns1:hasName "Rowan Mercer" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-08" .
+
+<http://example.org/intern/INT-064> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.88e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-064" ;
+    ns1:hasName "Silas Sterling" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-09" .
+
+<http://example.org/intern/INT-065> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 4.5e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-065" ;
+    ns1:hasName "Freya Garrick" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-10" .
+
+<http://example.org/intern/INT-066> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 5.2e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-066" ;
+    ns1:hasName "Elena Winters" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-11" .
+
+<http://example.org/intern/INT-067> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 5.9e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-067" ;
+    ns1:hasName "Julian Hawthorne" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-12" .
+
+<http://example.org/intern/INT-068> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-068" ;
+    ns1:hasName "Amara Kemp" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-13" .
+
+<http://example.org/intern/INT-069> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 7.3e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-069" ;
+    ns1:hasName "Zane Chen" ;
+    ns1:hasPerformanceRating "NaN"^^xsd:double ;
+    ns1:joinedOn "2025-05-14" .
+
+<http://example.org/intern/INT-070> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 8e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-070" ;
+    ns1:hasName "Mira Moretti" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-15" .
+
+<http://example.org/intern/INT-071> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 8.7e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-071" ;
+    ns1:hasName "Calvin Vega" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-16" .
+
+<http://example.org/intern/INT-072> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 9.4e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-072" ;
+    ns1:hasName "Iris Russo" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-17" .
+
+<http://example.org/intern/INT-073> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.01e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-073" ;
+    ns1:hasName "Tristan Bancroft" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-18" .
+
+<http://example.org/intern/INT-074> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.08e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-074" ;
+    ns1:hasName "Nova Pendleton" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-19" .
+
+<http://example.org/intern/INT-075> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.15e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-075" ;
+    ns1:hasName "Valerie Kingsley" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-20" .
+
+<http://example.org/intern/INT-076> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.22e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-076" ;
+    ns1:hasName "Dorian Murdoch" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-21" .
+
+<http://example.org/intern/INT-077> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.29e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-077" ;
+    ns1:hasName "Selene Dalton" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-22" .
+
+<http://example.org/intern/INT-078> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.36e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-078" ;
+    ns1:hasName "Thalia Gallagher" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-23" .
+
+<http://example.org/intern/INT-079> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.43e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-079" ;
+    ns1:hasName "Lucas Kendrick" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-24" .
+
+<http://example.org/intern/INT-080> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.5e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-080" ;
+    ns1:hasName "Clara Marlowe" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-25" .
+
+<http://example.org/intern/INT-081> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.57e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-081" ;
+    ns1:hasName "Xavier Prescott" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-26" .
+
+<http://example.org/intern/INT-082> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.64e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-082" ;
+    ns1:hasName "Naomi Rhodes" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-27" .
+
+<http://example.org/intern/INT-083> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.71e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-083" ;
+    ns1:hasName "Marcus Stratton" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-28" .
+
+<http://example.org/intern/INT-084> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.78e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-084" ;
+    ns1:hasName "Fiona Vaughan" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-01" .
+
+<http://example.org/intern/INT-085> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-085" ;
+    ns1:hasName "Gavin Waverly" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-02" .
+
+<http://example.org/intern/INT-086> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 4.2e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-086" ;
+    ns1:hasName "Phoebe York" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-03" .
+
+<http://example.org/intern/INT-087> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 4.9e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-087" ;
+    ns1:hasName "Ethan Vance" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-04" .
+
+<http://example.org/intern/INT-088> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 5.6e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-088" ;
+    ns1:hasName "Aidan Thorne" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-05" .
+
+<http://example.org/intern/INT-089> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 6.3e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-089" ;
+    ns1:hasName "Briseis Danan" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-06" .
+
+<http://example.org/intern/INT-090> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 7e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-090" ;
+    ns1:hasName "Caelum Brooks" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-07" .
+
+<http://example.org/intern/INT-091> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 7.7e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-091" ;
+    ns1:hasName "Dahlia Black" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-08" .
+
+<http://example.org/intern/INT-092> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 8.4e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-092" ;
+    ns1:hasName "Elora Lin" ;
+    ns1:hasPerformanceRating "NaN"^^xsd:double ;
+    ns1:joinedOn "2025-03-09" .
+
+<http://example.org/intern/INT-093> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 9.1e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-093" ;
+    ns1:hasName "Faelan Reed" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-10" .
+
+<http://example.org/intern/INT-094> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 9.8e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-094" ;
+    ns1:hasName "Gideon Fahey" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-11" .
+
+<http://example.org/intern/INT-095> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.05e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-095" ;
+    ns1:hasName "Hana Voss" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-12" .
+
+<http://example.org/intern/INT-096> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.12e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-096" ;
+    ns1:hasName "Ione Belacqua" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-13" .
+
+<http://example.org/intern/INT-097> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.19e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-097" ;
+    ns1:hasName "Jesper Archeron" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-14" .
+
+<http://example.org/intern/INT-098> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.26e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-098" ;
+    ns1:hasName "Kaelen Allday" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-15" .
+
+<http://example.org/intern/INT-099> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.33e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-099" ;
+    ns1:hasName "Lyra Valerius" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-16" .
+
+<http://example.org/intern/INT-100> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.4e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-100" ;
+    ns1:hasName "Marek Sinclair" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-17" .
+
+<http://example.org/intern/INT-101> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.47e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-101" ;
+    ns1:hasName "Nesta Holloway" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-18" .
+
+<http://example.org/intern/INT-102> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-102" ;
+    ns1:hasName "Odin Mercer" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-19" .
+
+<http://example.org/intern/INT-103> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.61e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-103" ;
+    ns1:hasName "Rowan Sterling" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-20" .
+
+<http://example.org/intern/INT-104> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.68e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-104" ;
+    ns1:hasName "Silas Garrick" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-21" .
+
+<http://example.org/intern/INT-105> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.75e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-105" ;
+    ns1:hasName "Freya Winters" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-22" .
+
+<http://example.org/intern/INT-106> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.82e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-106" ;
+    ns1:hasName "Elena Hawthorne" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-23" .
+
+<http://example.org/intern/INT-107> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.89e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-107" ;
+    ns1:hasName "Julian Kemp" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-24" .
+
+<http://example.org/intern/INT-108> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 4.6e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-108" ;
+    ns1:hasName "Amara Chen" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-25" .
+
+<http://example.org/intern/INT-109> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 5.3e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-109" ;
+    ns1:hasName "Zane Moretti" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-26" .
+
+<http://example.org/intern/INT-110> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 6e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-110" ;
+    ns1:hasName "Mira Vega" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-27" .
+
+<http://example.org/intern/INT-111> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 6.7e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-111" ;
+    ns1:hasName "Calvin Russo" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-28" .
+
+<http://example.org/intern/INT-112> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 7.4e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-112" ;
+    ns1:hasName "Iris Bancroft" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-01" .
+
+<http://example.org/intern/INT-113> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 8.1e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-113" ;
+    ns1:hasName "Tristan Pendleton" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-02" .
+
+<http://example.org/intern/INT-114> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 8.8e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-114" ;
+    ns1:hasName "Nova Kingsley" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-03" .
+
+<http://example.org/intern/INT-115> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 9.5e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-115" ;
+    ns1:hasName "Valerie Murdoch" ;
+    ns1:hasPerformanceRating "NaN"^^xsd:double ;
+    ns1:joinedOn "2025-01-04" .
+
+<http://example.org/intern/INT-116> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.02e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-116" ;
+    ns1:hasName "Dorian Dalton" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-05" .
+
+<http://example.org/intern/INT-117> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.09e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-117" ;
+    ns1:hasName "Selene Gallagher" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-06" .
+
+<http://example.org/intern/INT-118> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.16e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-118" ;
+    ns1:hasName "Thalia Kendrick" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-07" .
+
+<http://example.org/intern/INT-119> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-119" ;
+    ns1:hasName "Lucas Marlowe" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-08" .
+
+<http://example.org/intern/INT-120> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.3e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-120" ;
+    ns1:hasName "Clara Prescott" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-09" .
+
+<http://example.org/intern/INT-121> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.37e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-121" ;
+    ns1:hasName "Xavier Rhodes" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-10" .
+
+<http://example.org/intern/INT-122> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.44e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-122" ;
+    ns1:hasName "Naomi Stratton" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-11" .
+
+<http://example.org/intern/INT-123> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.51e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-123" ;
+    ns1:hasName "Marcus Vaughan" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-12" .
+
+<http://example.org/intern/INT-124> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.58e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-124" ;
+    ns1:hasName "Fiona Waverly" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-13" .
+
+<http://example.org/intern/INT-125> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.65e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-125" ;
+    ns1:hasName "Gavin York" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-14" .
+
+<http://example.org/intern/INT-126> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.72e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-126" ;
+    ns1:hasName "Phoebe Vance" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-15" .
+
+<http://example.org/intern/INT-127> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.79e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-127" ;
+    ns1:hasName "Ethan Cole" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-16" .
+
+<http://example.org/intern/INT-128> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.86e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-128" ;
+    ns1:hasName "Aidan Danan" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-17" .
+
+<http://example.org/intern/INT-129> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 4.3e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-129" ;
+    ns1:hasName "Briseis Brooks" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-18" .
+
+<http://example.org/intern/INT-130> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 5e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-130" ;
+    ns1:hasName "Caelum Black" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-19" .
+
+<http://example.org/intern/INT-131> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 5.7e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-131" ;
+    ns1:hasName "Dahlia Lin" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-20" .
+
+<http://example.org/intern/INT-132> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 6.4e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-132" ;
+    ns1:hasName "Elora Reed" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-21" .
+
+<http://example.org/intern/INT-133> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 7.1e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-133" ;
+    ns1:hasName "Faelan Fahey" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-22" .
+
+<http://example.org/intern/INT-134> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 7.8e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-134" ;
+    ns1:hasName "Gideon Voss" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-23" .
+
+<http://example.org/intern/INT-135> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 8.5e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-135" ;
+    ns1:hasName "Hana Belacqua" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-24" .
+
+<http://example.org/intern/INT-136> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-136" ;
+    ns1:hasName "Ione Archeron" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-25" .
+
+<http://example.org/intern/INT-137> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 9.9e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-137" ;
+    ns1:hasName "Jesper Allday" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-26" .
+
+<http://example.org/intern/INT-138> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.06e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-138" ;
+    ns1:hasName "Kaelen Valerius" ;
+    ns1:hasPerformanceRating "NaN"^^xsd:double ;
+    ns1:joinedOn "2025-04-27" .
+
+<http://example.org/intern/INT-139> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.13e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-139" ;
+    ns1:hasName "Lyra Sinclair" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-28" .
+
+<http://example.org/intern/INT-140> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.2e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-140" ;
+    ns1:hasName "Marek Holloway" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-01" .
+
+<http://example.org/intern/INT-141> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.27e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-141" ;
+    ns1:hasName "Nesta Mercer" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-02" .
+
+<http://example.org/intern/INT-142> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.34e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-142" ;
+    ns1:hasName "Odin Sterling" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-03" .
+
+<http://example.org/intern/INT-143> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.41e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-143" ;
+    ns1:hasName "Rowan Garrick" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-04" .
+
+<http://example.org/intern/INT-144> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.48e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-144" ;
+    ns1:hasName "Silas Winters" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-05" .
+
+<http://example.org/intern/INT-145> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.55e+02 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-145" ;
+    ns1:hasName "Freya Hawthorne" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-06" .
+
+<http://example.org/intern/INT-146> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.62e+02 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-146" ;
+    ns1:hasName "Elena Kemp" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-07" .
+
+<http://example.org/intern/INT-147> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.69e+02 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-147" ;
+    ns1:hasName "Julian Chen" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-08" .
+
+<http://example.org/intern/INT-148> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 1.76e+02 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-148" ;
+    ns1:hasName "Amara Moretti" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-09" .
+
+<http://example.org/intern/INT-149> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 1.83e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-149" ;
+    ns1:hasName "Zane Vega" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-10" .
+
+<http://example.org/intern/INT-150> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 4e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-150" ;
+    ns1:hasName "Mira Russo" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-11" .
+
+<http://example.org/intern/INT-151> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 4.7e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-151" ;
+    ns1:hasName "Calvin Bancroft" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-12" .
+
+<http://example.org/intern/INT-152> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 5.4e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-152" ;
+    ns1:hasName "Iris Pendleton" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-13" .
+
+<http://example.org/intern/INT-153> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP "NaN"^^xsd:double ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-153" ;
+    ns1:hasName "Tristan Kingsley" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-14" .
+
+<http://example.org/intern/INT-154> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 6.8e+01 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-154" ;
+    ns1:hasName "Nova Murdoch" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-15" .
+
+<http://example.org/intern/INT-155> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 7.5e+01 ;
+    ns1:hasGuild "Archivist" ;
+    ns1:hasInternID "INT-155" ;
+    ns1:hasName "Valerie Dalton" ;
+    ns1:hasPerformanceRating "Outstanding" ;
+    ns1:joinedOn "2025-01-16" .
+
+<http://example.org/intern/INT-156> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 8.2e+01 ;
+    ns1:hasGuild "Visualizer" ;
+    ns1:hasInternID "INT-156" ;
+    ns1:hasName "Dorian Gallagher" ;
+    ns1:hasPerformanceRating "Excellent" ;
+    ns1:joinedOn "2025-02-17" .
+
+<http://example.org/intern/INT-157> a ns1:Intern ;
+    ns1:completedTasks "3" ;
+    ns1:earnedXP 8.9e+01 ;
+    ns1:hasGuild "Engineer" ;
+    ns1:hasInternID "INT-157" ;
+    ns1:hasName "Selene Kendrick" ;
+    ns1:hasPerformanceRating "Good" ;
+    ns1:joinedOn "2025-03-18" .
+
+<http://example.org/intern/INT-158> a ns1:Intern ;
+    ns1:completedTasks "6" ;
+    ns1:earnedXP 9.6e+01 ;
+    ns1:hasGuild "Analyst" ;
+    ns1:hasInternID "INT-158" ;
+    ns1:hasName "Thalia Marlowe" ;
+    ns1:hasPerformanceRating "Satisfactory" ;
+    ns1:joinedOn "2025-04-19" .
+
+<http://example.org/intern/INT-159> a ns1:Intern ;
+    ns1:completedTasks "0" ;
+    ns1:earnedXP 1.03e+02 ;
+    ns1:hasGuild "Ontologist" ;
+    ns1:hasInternID "INT-159" ;
+    ns1:hasName "Lucas Prescott" ;
+    ns1:hasPerformanceRating "Needs Improvement" ;
+    ns1:joinedOn "2025-05-20" .
+

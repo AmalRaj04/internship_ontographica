@@ -1,0 +1,10 @@
+KNOWLEDGE GRAPH REPORT
+Class: Intern
+Datatype Properties: 7
+Number of Individuals: 161
+Number of RDF Triples: 1272
+FILES GENERATED
+knowledge_graph.ttl
+proof.png
+kg_report.txt
+

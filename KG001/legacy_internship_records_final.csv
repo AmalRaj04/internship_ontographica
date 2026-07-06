@@ -1,0 +1,162 @@
+intern_id,name,guild,xp_earned,completed_tasks,join_date,performance_rating
+INT-001,Aidan Vance,Archivist,120,4,2025-01-15,Excellent
+INT-002,Briseis Cole,Visualizer,85,3,2025-02-01,Good
+INT-003,Caelum Thorne,Engineer,150,5,2025-01-10,Outstanding
+INT-004,Dahlia Vance,Archivist,,2,2025-03-01,Satisfactory
+INT-005,Elora Danan,Engineer,95,3,2025-02-15,Good
+INT-006,Faelan Brooks,Visualizer,110,4,2025-01-20,
+INT-007,Gideon Black,Archivist,130,4,2025-01-12,Excellent
+INT-001,Aidan Vance,Archivist,120,4,2025-01-15,Excellent
+INT-008,Aidan Murdoch,Analyst,96,6,2025-04-09,Satisfactory
+INT-009,Briseis Murdoch,Ontologist,103,0,2025-05-10,Needs Improvement
+INT-010,Caelum Murdoch,Archivist,110,3,2025-01-11,Outstanding
+INT-011,Dahlia Danan,Visualizer,117,6,2025-02-12,Excellent
+INT-012,Elora Brooks,Engineer,124,0,2025-03-13,Good
+INT-013,Faelan Black,Analyst,131,3,2025-04-14,Satisfactory
+INT-014,Gideon Lin,Ontologist,138,6,2025-05-15,Needs Improvement
+INT-015,Hana Reed,Archivist,145,0,2025-01-16,Outstanding
+INT-016,Ione Fahey,Visualizer,152,3,2025-02-17,Excellent
+INT-017,Jesper Voss,Engineer,,6,2025-03-18,Good
+INT-018,Kaelen Belacqua,Analyst,166,0,2025-04-19,Satisfactory
+INT-019,Lyra Archeron,Ontologist,173,3,2025-05-20,Needs Improvement
+INT-020,Marek Allday,Archivist,180,6,2025-01-21,Outstanding
+INT-021,Nesta Valerius,Visualizer,187,0,2025-02-22,Excellent
+INT-022,Odin Sinclair,Engineer,44,3,2025-03-23,Good
+INT-023,Rowan Holloway,Analyst,51,6,2025-04-24,
+INT-024,Silas Mercer,Ontologist,58,0,2025-05-25,Needs Improvement
+INT-025,Freya Sterling,Archivist,65,3,2025-01-26,Outstanding
+INT-026,Elena Garrick,Visualizer,72,6,2025-02-27,Excellent
+INT-027,Julian Winters,Engineer,79,0,2025-03-28,Good
+INT-028,Amara Hawthorne,Analyst,86,3,2025-04-01,Satisfactory
+INT-029,Zane Kemp,Ontologist,93,6,2025-05-02,Needs Improvement
+INT-030,Mira Chen,Archivist,100,0,2025-01-03,Outstanding
+INT-031,Calvin Moretti,Visualizer,107,3,2025-02-04,Excellent
+INT-032,Iris Vega,Engineer,114,6,2025-03-05,Good
+INT-033,Tristan Russo,Analyst,121,0,2025-04-06,Satisfactory
+INT-034,Nova Bancroft,Ontologist,,3,2025-05-07,Needs Improvement
+INT-035,Valerie Pendleton,Archivist,135,6,2025-01-08,Outstanding
+INT-036,Dorian Kingsley,Visualizer,142,0,2025-02-09,Excellent
+INT-037,Selene Murdoch,Engineer,149,3,2025-03-10,Good
+INT-038,Thalia Dalton,Analyst,156,6,2025-04-11,Satisfactory
+INT-039,Lucas Gallagher,Ontologist,163,0,2025-05-12,Needs Improvement
+INT-040,Clara Kendrick,Archivist,170,3,2025-01-13,Outstanding
+INT-041,Xavier Marlowe,Visualizer,177,6,2025-02-14,Excellent
+INT-042,Naomi Prescott,Engineer,184,0,2025-03-15,Good
+INT-043,Marcus Rhodes,Analyst,41,3,2025-04-16,Satisfactory
+INT-044,Fiona Stratton,Ontologist,48,6,2025-05-17,Needs Improvement
+INT-045,Gavin Vaughan,Archivist,55,0,2025-01-18,Outstanding
+INT-046,Phoebe Waverly,Visualizer,62,3,2025-02-19,
+INT-047,Ethan York,Engineer,69,6,2025-03-20,Good
+INT-048,Aidan Cole,Analyst,76,0,2025-04-21,Satisfactory
+INT-049,Briseis Thorne,Ontologist,83,3,2025-05-22,Needs Improvement
+INT-050,Caelum Danan,Archivist,90,6,2025-01-23,Outstanding
+INT-051,Dahlia Brooks,Visualizer,,0,2025-02-24,Excellent
+INT-052,Elora Black,Engineer,104,3,2025-03-25,Good
+INT-053,Faelan Lin,Analyst,111,6,2025-04-26,Satisfactory
+INT-054,Gideon Reed,Ontologist,118,0,2025-05-27,Needs Improvement
+INT-055,Hana Fahey,Archivist,125,3,2025-01-28,Outstanding
+INT-056,Ione Voss,Visualizer,132,6,2025-02-01,Excellent
+INT-057,Jesper Belacqua,Engineer,139,0,2025-03-02,Good
+INT-058,Kaelen Archeron,Analyst,146,3,2025-04-03,Satisfactory
+INT-059,Lyra Allday,Ontologist,153,6,2025-05-04,Needs Improvement
+INT-060,Marek Valerius,Archivist,160,0,2025-01-05,Outstanding
+INT-061,Nesta Sinclair,Visualizer,167,3,2025-02-06,Excellent
+INT-062,Odin Holloway,Engineer,174,6,2025-03-07,Good
+INT-063,Rowan Mercer,Analyst,181,0,2025-04-08,Satisfactory
+INT-064,Silas Sterling,Ontologist,188,3,2025-05-09,Needs Improvement
+INT-064,Silas Sterling,Ontologist,188,3,2025-05-09,Needs Improvement
+INT-065,Freya Garrick,Archivist,45,6,2025-01-10,Outstanding
+INT-066,Elena Winters,Visualizer,52,0,2025-02-11,Excellent
+INT-067,Julian Hawthorne,Engineer,59,3,2025-03-12,Good
+INT-068,Amara Kemp,Analyst,,6,2025-04-13,Satisfactory
+INT-069,Zane Chen,Ontologist,73,0,2025-05-14,
+INT-070,Mira Moretti,Archivist,80,3,2025-01-15,Outstanding
+INT-071,Calvin Vega,Visualizer,87,6,2025-02-16,Excellent
+INT-072,Iris Russo,Engineer,94,0,2025-03-17,Good
+INT-073,Tristan Bancroft,Analyst,101,3,2025-04-18,Satisfactory
+INT-074,Nova Pendleton,Ontologist,108,6,2025-05-19,Needs Improvement
+INT-075,Valerie Kingsley,Archivist,115,0,2025-01-20,Outstanding
+INT-076,Dorian Murdoch,Visualizer,122,3,2025-02-21,Excellent
+INT-077,Selene Dalton,Engineer,129,6,2025-03-22,Good
+INT-078,Thalia Gallagher,Analyst,136,0,2025-04-23,Satisfactory
+INT-079,Lucas Kendrick,Ontologist,143,3,2025-05-24,Needs Improvement
+INT-080,Clara Marlowe,Archivist,150,6,2025-01-25,Outstanding
+INT-081,Xavier Prescott,Visualizer,157,0,2025-02-26,Excellent
+INT-082,Naomi Rhodes,Engineer,164,3,2025-03-27,Good
+INT-083,Marcus Stratton,Analyst,171,6,2025-04-28,Satisfactory
+INT-084,Fiona Vaughan,Ontologist,178,0,2025-05-01,Needs Improvement
+INT-085,Gavin Waverly,Archivist,,3,2025-01-02,Outstanding
+INT-086,Phoebe York,Visualizer,42,6,2025-02-03,Excellent
+INT-087,Ethan Vance,Engineer,49,0,2025-03-04,Good
+INT-088,Aidan Thorne,Analyst,56,3,2025-04-05,Satisfactory
+INT-089,Briseis Danan,Ontologist,63,6,2025-05-06,Needs Improvement
+INT-090,Caelum Brooks,Archivist,70,0,2025-01-07,Outstanding
+INT-091,Dahlia Black,Visualizer,77,3,2025-02-08,Excellent
+INT-092,Elora Lin,Engineer,84,6,2025-03-09,
+INT-093,Faelan Reed,Analyst,91,0,2025-04-10,Satisfactory
+INT-094,Gideon Fahey,Ontologist,98,3,2025-05-11,Needs Improvement
+INT-095,Hana Voss,Archivist,105,6,2025-01-12,Outstanding
+INT-096,Ione Belacqua,Visualizer,112,0,2025-02-13,Excellent
+INT-097,Jesper Archeron,Engineer,119,3,2025-03-14,Good
+INT-098,Kaelen Allday,Analyst,126,6,2025-04-15,Satisfactory
+INT-099,Lyra Valerius,Ontologist,133,0,2025-05-16,Needs Improvement
+INT-100,Marek Sinclair,Archivist,140,3,2025-01-17,Outstanding
+INT-101,Nesta Holloway,Visualizer,147,6,2025-02-18,Excellent
+INT-102,Odin Mercer,Engineer,,0,2025-03-19,Good
+INT-103,Rowan Sterling,Analyst,161,3,2025-04-20,Satisfactory
+INT-104,Silas Garrick,Ontologist,168,6,2025-05-21,Needs Improvement
+INT-105,Freya Winters,Archivist,175,0,2025-01-22,Outstanding
+INT-106,Elena Hawthorne,Visualizer,182,3,2025-02-23,Excellent
+INT-107,Julian Kemp,Engineer,189,6,2025-03-24,Good
+INT-108,Amara Chen,Analyst,46,0,2025-04-25,Satisfactory
+INT-109,Zane Moretti,Ontologist,53,3,2025-05-26,Needs Improvement
+INT-110,Mira Vega,Archivist,60,6,2025-01-27,Outstanding
+INT-111,Calvin Russo,Visualizer,67,0,2025-02-28,Excellent
+INT-112,Iris Bancroft,Engineer,74,3,2025-03-01,Good
+INT-113,Tristan Pendleton,Analyst,81,6,2025-04-02,Satisfactory
+INT-114,Nova Kingsley,Ontologist,88,0,2025-05-03,Needs Improvement
+INT-115,Valerie Murdoch,Archivist,95,3,2025-01-04,
+INT-116,Dorian Dalton,Visualizer,102,6,2025-02-05,Excellent
+INT-117,Selene Gallagher,Engineer,109,0,2025-03-06,Good
+INT-118,Thalia Kendrick,Analyst,116,3,2025-04-07,Satisfactory
+INT-119,Lucas Marlowe,Ontologist,,6,2025-05-08,Needs Improvement
+INT-120,Clara Prescott,Archivist,130,0,2025-01-09,Outstanding
+INT-121,Xavier Rhodes,Visualizer,137,3,2025-02-10,Excellent
+INT-122,Naomi Stratton,Engineer,144,6,2025-03-11,Good
+INT-123,Marcus Vaughan,Analyst,151,0,2025-04-12,Satisfactory
+INT-124,Fiona Waverly,Ontologist,158,3,2025-05-13,Needs Improvement
+INT-125,Gavin York,Archivist,165,6,2025-01-14,Outstanding
+INT-126,Phoebe Vance,Visualizer,172,0,2025-02-15,Excellent
+INT-127,Ethan Cole,Engineer,179,3,2025-03-16,Good
+INT-128,Aidan Danan,Analyst,186,6,2025-04-17,Satisfactory
+INT-129,Briseis Brooks,Ontologist,43,0,2025-05-18,Needs Improvement
+INT-130,Caelum Black,Archivist,50,3,2025-01-19,Outstanding
+INT-131,Dahlia Lin,Visualizer,57,6,2025-02-20,Excellent
+INT-132,Elora Reed,Engineer,64,0,2025-03-21,Good
+INT-133,Faelan Fahey,Analyst,71,3,2025-04-22,Satisfactory
+INT-134,Gideon Voss,Ontologist,78,6,2025-05-23,Needs Improvement
+INT-135,Hana Belacqua,Archivist,85,0,2025-01-24,Outstanding
+INT-136,Ione Archeron,Visualizer,,3,2025-02-25,Excellent
+INT-137,Jesper Allday,Engineer,99,6,2025-03-26,Good
+INT-138,Kaelen Valerius,Analyst,106,0,2025-04-27,
+INT-139,Lyra Sinclair,Ontologist,113,3,2025-05-28,Needs Improvement
+INT-140,Marek Holloway,Archivist,120,6,2025-01-01,Outstanding
+INT-141,Nesta Mercer,Visualizer,127,0,2025-02-02,Excellent
+INT-142,Odin Sterling,Engineer,134,3,2025-03-03,Good
+INT-143,Rowan Garrick,Analyst,141,6,2025-04-04,Satisfactory
+INT-144,Silas Winters,Ontologist,148,0,2025-05-05,Needs Improvement
+INT-145,Freya Hawthorne,Archivist,155,3,2025-01-06,Outstanding
+INT-146,Elena Kemp,Visualizer,162,6,2025-02-07,Excellent
+INT-147,Julian Chen,Engineer,169,0,2025-03-08,Good
+INT-148,Amara Moretti,Analyst,176,3,2025-04-09,Satisfactory
+INT-149,Zane Vega,Ontologist,183,6,2025-05-10,Needs Improvement
+INT-150,Mira Russo,Archivist,40,0,2025-01-11,Outstanding
+INT-151,Calvin Bancroft,Visualizer,47,3,2025-02-12,Excellent
+INT-152,Iris Pendleton,Engineer,54,6,2025-03-13,Good
+INT-153,Tristan Kingsley,Analyst,,0,2025-04-14,Satisfactory
+INT-154,Nova Murdoch,Ontologist,68,3,2025-05-15,Needs Improvement
+INT-155,Valerie Dalton,Archivist,75,6,2025-01-16,Outstanding
+INT-156,Dorian Gallagher,Visualizer,82,0,2025-02-17,Excellent
+INT-157,Selene Kendrick,Engineer,89,3,2025-03-18,Good
+INT-158,Thalia Marlowe,Analyst,96,6,2025-04-19,Satisfactory
+INT-159,Lucas Prescott,Ontologist,103,0,2025-05-20,Needs Improvement
